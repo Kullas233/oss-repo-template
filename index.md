@@ -2,7 +2,7 @@
 ## Dylan Kullas
 
 ## Bio
-![Me](labs/lab-01/images/me.jpg)
+<img src="labs/lab-01/images/me.jpg" width="256" height="309">
 ## Name: Dylan Kullas (Kullad)
 ### email: Kullad@rpi.edu 
 ### github account: Kullas233
