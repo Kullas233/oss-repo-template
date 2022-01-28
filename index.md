@@ -17,3 +17,4 @@ I am a Junior majoring in computer science and plan to minor in Cognitive Scienc
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
+[Lab 2](labs/lab-02/report.md)
