@@ -16,5 +16,5 @@
 I am a Junior majoring in computer science and plan to minor in Cognitive Science. I have experience with Java, Python, C,  and C++. I also have some experience with SQL, HTML/CSS/Javascript, and C#. I was an intern at General Dynamics this past fall which gave me experience in Powershell and networking as well.
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+[Lab 1](labs/lab-01/report.md)  
 [Lab 2](labs/lab-02/report.md)
