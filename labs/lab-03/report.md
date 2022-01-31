@@ -81,5 +81,6 @@ Gitstats instead shows 14871 lines of code, with 4 authors/contributors. The lat
 The total number of lines reported with gitstats is much higher than the lines found by running git ls-files -z | xargs -0 wc -l. All other statistics are consistent between the manual findings and gitstats.
 
 ### Gource
+<img src="images/make_install.png">  
 <img src="images/gource.png">  
 Link to gource video on youtube: https://youtu.be/8A1nGGtHu3g
