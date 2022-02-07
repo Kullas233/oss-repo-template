@@ -12,6 +12,7 @@ Yes I absolutely agree with the claim made in this part of the article. Releasin
 ## Linux License Justification
 The GNU GPL License was chosen by Linus Torvalds for Linux when he created it. He did this because he was fed up with the MINIX programs not being free-software. Linus thought that there should be some complete unix-compatible software system that is free-software. The GNU GPL License requires all other projects built off of it to be open source as well. This is best for community involvement and sharing of all possible forks of the project, making it free-software. This license helped Linux pass MINIX as the most commonly used unix operating system due to it being free-software.
 
+## Open Source Projects
 Link to table project repo: https://github.com/BianoBonzo/OpenSourceBuildings
 
 |  Website                                       | License  Present |  License                                              |
