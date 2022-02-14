@@ -1,21 +1,21 @@
 # Lab 05 Report - Build Systems
 ## CMake Tutorial
 ### Step 1
-<img src="images/Step1-Tutorial.png">
-<img src="images/Step1-CMake.png">
-<img src="images/Step1.png">
+<img src="images/Step1-Tutorial.png" width=50%>
+<img src="images/Step1-CMake.png" width=50%>
+<img src="images/Step1.png" width=50%>
 ### Step 2
-<img src="images/Step2-Tutorial.png">
-<img src="images/Step2-CMake.png">
-<img src="images/Step2.png">
+<img src="images/Step2-Tutorial.png" width=50%>
+<img src="images/Step2-CMake.png" width=50%>
+<img src="images/Step2.png" width=50%>
 ### Step 3
-<img src="images/Step3-CMake.png">
-<img src="images/Step3-CMakeMath.png">
-<img src="images/Step3.png">
+<img src="images/Step3-CMake.png" width=50%>
+<img src="images/Step3-CMakeMath.png" width=50%>
+<img src="images/Step3.png" width=50%>
 ### Step 4
-<img src="images/Step4-CMake1.png">
-<img src="images/Step4-CMake2.png">
-<img src="images/Step4-CMakeMath.png">
+<img src="images/Step4-CMake1.png" width=50%>
+<img src="images/Step4-CMake2.png" width=50%>
+<img src="images/Step4-CMakeMath.png" width=50%>
 UpdateCTestConfiguration  from :/mnt/c/Users/kulla/OneDrive/Documents/RPI/CSCI 4470/cmake/help/guide/tutorial/step4_build/DartConfiguration.tcl
 UpdateCTestConfiguration  from :/mnt/c/Users/kulla/OneDrive/Documents/RPI/CSCI 4470/cmake/help/guide/tutorial/step4_build/DartConfiguration.tcl
 Test project /mnt/c/Users/kulla/OneDrive/Documents/RPI/CSCI 4470/cmake/help/guide/tutorial/step4_build
@@ -162,10 +162,10 @@ test 9
 
 100% tests passed, 0 tests failed out of 9
 ### Step 5
-<img src="images/Step5-CMake1.png">
-<img src="images/Step5-CMake2.png">
-<img src="images/Step5-CMakeMath.png">
-<img src="images/Step5.png">
+<img src="images/Step5-CMake1.png" width=50%>
+<img src="images/Step5-CMake2.png" width=50%>
+<img src="images/Step5-CMakeMath.png" width=50%>
+<img src="images/Step5.png" width=50%>
 
 ## MakeFile
 ### My Makefile
