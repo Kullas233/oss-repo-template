@@ -65,6 +65,7 @@ if __name__ == '__main__':
             print("None")
 ```
 ## 5 Letter Results
+~~~
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
@@ -128,6 +129,7 @@ peace
 peach
 Shortest path between pound and marks is
 None
+~~~
 ## 4 Letter Code
 ```
 import gzip
@@ -193,6 +195,7 @@ if __name__ == '__main__':
             print("None")
 ```
 ## 4 Letter Results
+~~~
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 4273 nodes with 21047 edges
@@ -226,6 +229,7 @@ beef
 Shortest path between make and take is
 make
 take
+~~~
 ## No Order Code
 ```
 import gzip
@@ -295,6 +299,7 @@ if __name__ == '__main__':
             print("None")
 ```
 ## No Order Results
+~~~
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 112278 edges
@@ -334,3 +339,4 @@ monad
 damns
 drams
 marks
+~~~
