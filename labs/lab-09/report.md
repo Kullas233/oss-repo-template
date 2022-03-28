@@ -15,3 +15,4 @@
 
 ## Example 04
 <img src="images/example04_image.png">
+<img src="images/example04_usage.png">
