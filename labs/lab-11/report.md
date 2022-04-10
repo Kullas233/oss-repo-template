@@ -19,3 +19,4 @@
 
 ### Results
 <img src="images/results.png">
+The classifier was not able to classify the shoes correctly and thought they were a bag. This could be due to the orignal image being too small and not having enough data when being formatted even smaller.
