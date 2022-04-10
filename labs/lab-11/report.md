@@ -4,18 +4,18 @@
 <img src="images/first_figure.png">
 
 ## Checkpoint 2: Run a TensorFlow classification
-<img src="images/classifier.png">
+<img src="images/classification.png">
 
 ## Checkpoint 3: Curate some data
 ### Original Images
-<img src="images/shoes.png">
-<img src="images/jacket.png">
-<img src="images/jeans.png">
+<img src="images/shoes.jpg">
+<img src="images/jacket.jpg">
+<img src="images/jeans.jpg">
 
 ### Formatted Images
-<img src="images/shoes_formatted.png">
-<img src="images/jacket_formatted.png">
-<img src="images/jeans_formatted.png">
+<img src="images/shoes_formatted.jpg">
+<img src="images/jacket_formatted.jpg">
+<img src="images/jeans_formatted.jpg">
 
 ### Results
 <img src="images/results.png">
